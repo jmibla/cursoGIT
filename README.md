@@ -1,0 +1,2 @@
+Archivo típio de leeme.
+
